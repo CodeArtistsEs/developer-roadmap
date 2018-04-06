@@ -12,19 +12,19 @@ If you think that these can be improved in anyway, please do suggest.
 
 ## 🚀 Introduction
 
-![](https://i.imgur.com/OZUOUtI.png)
+![](./images/introduction.png)
 
 ## 🎨 Frontend Roadmap
 
-![](./images/frontend-v2.png)
+
 
 ## 👽 Back-end Roadmap
 
-![](./images/backend.png)
+
 
 ## 👷 DevOps Roadmap
 
-![](https://i.imgur.com/pyg9mH1.png)
+
 
 ## 🚦 Wrap Up
 
