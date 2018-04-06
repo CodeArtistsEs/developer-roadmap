@@ -12,8 +12,6 @@ If you think that these can be improved in anyway, please do suggest.
 </p>
 <br>
 
-<sub>Check out my [blog](http://kamranahmed.info) and say "hi" on [Twitter](https://twitter.com/kamranahmedse).</sub>
-
 ## 🚀 Introduction
 
 ![](https://i.imgur.com/OZUOUtI.png)
@@ -36,9 +34,8 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 
 ## ☑ TODO
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
+- [X] Do the fork
+- [ ] Add Global, Net and Python Roadmap
 - [ ] Add relevant resources for each
 
 ## 👬 Contribution
@@ -48,12 +45,11 @@ The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/).
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
 
-## Sponsored By
 
-- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-- [Highig - Think and its done](http://highig.com/)
+## Forked from
+
+- [https://github.com/WegraLee/developer-roadmap] (https://github.com/WegraLee/developer-roadmap)
 
 ## License
 
